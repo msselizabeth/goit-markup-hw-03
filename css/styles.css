@@ -314,6 +314,8 @@ border: 1px;}
 
 /*Примеры работ */
 
+.img { display: block;}
+
 .examples { padding-top: 0;}
 
 .examples-list { display: flex;
